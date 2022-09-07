@@ -1,0 +1,4 @@
+name: NojusAPI
+version: '${project.version}'
+main: me.nojuslopro.nojusapi.main
+api-version: 1.19
